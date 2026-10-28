@@ -63,6 +63,8 @@ An AI-powered analytics platform that transforms raw datasets into business-read
 
 ---
 
+### Pull Request Practice
+
 ## 📄 Resume
 
 Looking for a detailed overview of my experience, projects, and technical skills?
